@@ -47,4 +47,4 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles
+	email = stt
